@@ -46,3 +46,16 @@ while True:
             os.system('cls')
             print(" Incorrect Password!")
 ```
+
+This is the main menu page :
+
+```Python
+    print("|======================================|")
+    print("|    WELLCOME TO AIPPproject03 ZONE    |")
+    print("|======================================|")
+    print("| 1) AIPP Database                     |")
+    print("| 2) AIPP Math Zone                    |")
+    print("| 3) AIPP Simple Games                 |")
+    print("| 4) Exit                              |")
+    print("|======================================|")
+```
