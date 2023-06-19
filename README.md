@@ -1,7 +1,7 @@
 # Python_Project
 Just Some Library For My Python Project...
 
-<h1>Phyton Study Module</h1>
+<h1 align="center">Phyton Study Module</h1>
 First you must install this library at your terminal :
 
 ```
